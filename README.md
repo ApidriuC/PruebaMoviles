@@ -1,7 +1,5 @@
 <h1 align="center"> MOVIE BD</h1>
 
-Un nuevo proyecto en flutter.
-<hr>
 
 # Introducción
 
